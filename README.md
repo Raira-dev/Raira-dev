@@ -1,19 +1,19 @@
-## Hi! :)  US
+## Hi! :) :us:
 
 My name is Raira and I'm 19 years old
 - I'm *Front-end Dev*
-- I'm currently know Python, C, Kotlin, HTML + CSS + JS, Java
+- I'm currently know Python, Kotlin, HTML + CSS + JS, Java, React Native
 - 💻 Computer Science student 3/8 semester
 - Pronouns: She/Her
 
 Thanks for your attention!
 
-## Oi! :)  BR
+## Oi! :)  :br:
 
 Meu nome é Raira e tenho 19 anos
 
 - Sou *Dev Front-end*
-- Atualmente sei Python, C, Kotlin, HTML + CSS + JS, Java
+- Atualmente sei Python, Kotlin, HTML + CSS + JS, Java, React Native
 - 💻 Estudante de Ciência da COmputação 3/8 semestre
 - Pronomes: Ela/Dela
 
