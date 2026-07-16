@@ -60,4 +60,4 @@
 
 ⭐ Obrigada por visitar meu perfil!
 
-![CoffeeCoffeeSparkleGIF](https://github.com/user-attachments/assets/47c56176-f5c2-4a5d-953e-1b5622dd9694) (I like coffe / Eu gosto de café)
+![CoffeeCoffeeSparkleGIF](https://github.com/user-attachments/assets/47c56176-f5c2-4a5d-953e-1b5622dd9694) (Eu gosto de café)
