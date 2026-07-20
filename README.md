@@ -22,7 +22,7 @@
 - 🔎 Sempre buscando aprender novas tecnologias e evoluir como desenvolvedora.
 - 📚 Atualmente estudando:
     - Visão Computacional
-    - Segurança
+    - Ciber Segurança
     - SQL
 
   
