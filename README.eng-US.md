@@ -23,6 +23,7 @@
 - 📚 Currently learning:
     - Computer vision
     - Cibersecurity
+    - SQL
 
   
 ### Languages
