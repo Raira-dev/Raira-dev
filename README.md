@@ -12,7 +12,7 @@
 <h1 align="center">Olá, eu sou a Raira 👋</h1>
 
 <p align="center">
-  Estudante de Ciência da computação • Desenvolvedora • IA e Machine Learning
+  Estudante de Ciência da computação • Desenvolvedora e Analista de dados • IA e Machine Learning
 </p>
 
 ## Sobre mim
