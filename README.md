@@ -23,6 +23,7 @@
 - 📚 Atualmente estudando:
     - Visão Computacional
     - Segurança
+    - SQL
 
   
 ### Linguagens
